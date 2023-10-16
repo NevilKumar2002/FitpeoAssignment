@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FitpeoAssignment/static/css/main.d5088cad.css",
+    "main.js": "/FitpeoAssignment/static/js/main.1a500df0.js",
+    "static/media/question-square.svg": "/FitpeoAssignment/static/media/question-square.2e243ce80fc9c6844c46640437cf9512.svg",
+    "static/media/journal-text.svg": "/FitpeoAssignment/static/media/journal-text.aa0b3bec86773faccc9fe5ab956c75a7.svg",
+    "static/media/currency-dollar (1).svg": "/FitpeoAssignment/static/media/currency-dollar (1).c6e625445d51c9667f8e984cf6115fe5.svg",
+    "static/media/nut.svg": "/FitpeoAssignment/static/media/nut.ab2df28f972b63b79e2c989c3b0e089b.svg",
+    "static/media/box.svg": "/FitpeoAssignment/static/media/box.b39015f3553503dbf069d1ef27bbf2a1.svg",
+    "static/media/wallet2.svg": "/FitpeoAssignment/static/media/wallet2.842da1ee5d44d0dfbd0359d794f11bf6.svg",
+    "static/media/bag-dash.svg": "/FitpeoAssignment/static/media/bag-dash.757fbc38bad75fb7783e5c249445c26a.svg",
+    "static/media/person-square.svg": "/FitpeoAssignment/static/media/person-square.d809a1f86c5d01889158780cda16232f.svg",
+    "index.html": "/FitpeoAssignment/index.html",
+    "static/media/search.svg": "/FitpeoAssignment/static/media/search.b1f781b99ceaafb9c831949bb54ae3cd.svg",
+    "static/media/arrow-up-short.svg": "/FitpeoAssignment/static/media/arrow-up-short.5c0635ad59316666641580584d45a80f.svg",
+    "static/media/arrow-down-short.svg": "/FitpeoAssignment/static/media/arrow-down-short.cc140f5429580bcf81288c0e9b1aed67.svg",
+    "static/media/chevron-right.svg": "/FitpeoAssignment/static/media/chevron-right.61c607bb99397366b3b25f0ea180d905.svg",
+    "static/media/chevron-down.svg": "/FitpeoAssignment/static/media/chevron-down.8624f04faf16b2d07c00235d9dc68ae2.svg",
+    "main.d5088cad.css.map": "/FitpeoAssignment/static/css/main.d5088cad.css.map",
+    "main.1a500df0.js.map": "/FitpeoAssignment/static/js/main.1a500df0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5088cad.css",
+    "static/js/main.1a500df0.js"
+  ]
+}
